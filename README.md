@@ -1,6 +1,6 @@
 # F2E-Note
 
-## localStorage
+### localStorage
 
 跨页面通讯
 ```
